@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "903930451359",
+    "firebase_url": "https://gpmiidatabase-382c9.firebaseio.com",
+    "project_id": "gpmiidatabase-382c9",
+    "storage_bucket": "gpmiidatabase-382c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903930451359:android:24c4780d2ceac53d",
+        "android_client_info": {
+          "package_name": "gpmii.gpmiidb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903930451359-9jp71kfendoa38a578ofpmuhnd7id1dj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "gpmii.gpmiidb",
+            "certificate_hash": "8b8cc46a1342536bd9cd2f6f80a3e35d8aadec52"
+          }
+        },
+        {
+          "client_id": "903930451359-tte8pp6nluvsoegdne2p1cmrup3ajjfg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBNLrBnjJYTyOSufdBTVCpjYamTCfL2IY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903930451359-tte8pp6nluvsoegdne2p1cmrup3ajjfg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
